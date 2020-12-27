@@ -1,0 +1,53 @@
+
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.div_header{
+	background-color: yellow;
+	border: 1px solid;
+	text-align: center;
+	padding: 20px 10px 20px 10px;
+	margin:5px 10px 5px ;
+}
+.container{
+	margin:5px 10px 5px ;
+	
+}
+.div_menu{
+	
+	background-color: pink;
+	width:15%;
+	border: 1px solid;
+	padding: 50px 10px 20px 10px;
+	float:left;
+	height:300px;
+	margin:5px 10px 5px ;
+	
+}	
+.div_post_container{
+	
+	width: 80%;	
+	float:left;
+	
+}
+.div_post{
+
+	width:100%;
+	background-color: lightblue;
+	border: 1px solid;
+	height:110px;
+	text-align: center;
+	padding: 50px 10px 20px 10px;
+	margin:5px 10px 5px ;
+
+}
+.div_footer{
+	background-color: yellow;
+	border: 1px solid;
+	margin:5px 10px 5px;
+	text-align: center;
+	padding: 20px 10px 20px 10px;
+	clear: both;
+}
